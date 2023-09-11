@@ -1,0 +1,180 @@
+header{
+    display: flex;
+    min-height: 70px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    text-decoration: none;
+}
+.nombre{
+    display: flex;
+    align-items: center;
+}
+
+nav{
+    padding: 10px;
+}
+nav a{
+    justify-content: space-between;
+    padding: 10px;
+}
+h2{
+    color: palevioletred;
+    text-decoration: none;
+}
+img{
+    display: flex;
+    background: center;
+}
+.content{
+    background-image: url("imagenes/hero.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 600px;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    padding-top: 5em;
+}
+button{
+    display:flex;
+    justify-content: center;
+    background-color: rgb(202, 39, 66);
+}
+aside{
+    display: flex;
+    justify-content: center;
+    padding-top: 5em;
+    
+}
+section{
+    display: flex;
+    padding-top: 5em;
+    padding-left: 5em;
+
+}
+h3{
+    display: flex;
+    justify-content: center;
+    padding-right: 200px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 100px;
+}
+.ba{
+
+    display:flex ;
+    align-self: flex-end;
+}
+#programas{
+    background-color: rgb(105, 102, 102);
+    margin-top: 10px;
+}
+h3{
+    text-align: center;
+    display: flex;
+    padding-left: 200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.recuadros{
+    background-color:rgb(105, 102, 102) ;
+}
+.box1{
+    width:350px;
+    height:420px;
+    border-radius: 10px;
+    background:rgb(105, 102, 102);
+    border:solid 3px rgb(105, 102, 102);
+    background-image: url(imagenes/front-end-cropped.jpg);
+    background-repeat: no-repeat;
+    }
+    .box2{
+    width:400px;
+    height:400px;
+    border-radius: 10px;
+    margin-left: 90px;
+    background:rgb(105, 102, 102);
+    border:solid 3px rgb(105, 102, 102);
+    background-image: url(imagenes/full-stack-cropped.jpg);
+    background-repeat: no-repeat;
+    }
+    .box3{
+        width: 350px;
+        height: 400px;
+        border-radius: 10px;
+        margin-left: 100px;
+        background-color:rgb(102, 102, 102);
+        border:solid 3px rgb(105, 102, 102);
+        background-image: url(imagenes/python-cropped.jpg);
+        background-repeat: no-repeat;
+    }
+    h4{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        margin-left: 60px;
+        
+    }
+    p{
+        margin-top: 220px;
+    }
+    .letra{
+        margin-top: 130px;
+    }
+    .ultima{
+        margin-top: 165px;
+    }
+    .duda{
+        margin-left: 150px;
+        text-decoration: none;
+        padding: 10px   20px; 
+        border-radius: 10px;
+
+    }
+    .dude{
+         margin-left: 150px;
+         margin-top: 108px;
+        text-decoration: none;
+        padding: 10px   20px; 
+        border-radius: 10px;
+
+    }
+    .dudi{
+        margin-left: 150px;
+         margin-top: 70px;
+        text-decoration: none;
+        padding: 10px   20px; 
+        border-radius: 10px;
+ 
+    }
+    #rosa{
+        background-color: rgb(214, 49, 76);
+        margin-top: 100px;
+    }
+    
+    h3{
+        margin-left: 300px;
+    }
+    .dude{
+        padding: 10px 10px;
+        border-radius: 10px;
+        margin-right: 200pxpx;
+    }
+    #vivi{
+        padding-top: 5em;
+        justify-content: center;
+        justify-self: flex-start;
+    }
+    #final{
+        font-display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        flex-direction: column;
+        height: 450px;
+        background-color: rgb(221, 137, 165);
+        color:white;
+        margin-top: 10px;
+        text-decoration: none;
+    }
